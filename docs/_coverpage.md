@@ -1,5 +1,4 @@
-![logo](https://docsify.js.org/_media/icon.svg)
-
+![logo](logo.png)       
 # Muzi 学习文档
 
 > 好好学习 天天向上
