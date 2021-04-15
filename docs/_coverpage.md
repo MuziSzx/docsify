@@ -3,7 +3,7 @@
 
 > 好好学习 天天向上
 
-* 前端框架：Angular
+<!-- * 前端框架：Angular -->
 
 <!-- [GitHub](https://github.com/LazyManLikeGame/docsify.git) -->
 <!-- [Get Started](#q) -->
