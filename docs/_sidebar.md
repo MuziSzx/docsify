@@ -5,6 +5,8 @@
   - [自定义组件](angular/makeSelf.md "自定义组件")
   - [常用指令简介](angular/commonCop.md "常用指令简介")
   - [事件绑定](angular/bindEvent.md "事件绑定")
+  - [表单模块简介](angular/formIntro.md "表单模块简介")
+  - [Http模块简介](angular/httpIntro.md "Http模块简介")
 
 - CSS
   - [布局](layout.md "布局")

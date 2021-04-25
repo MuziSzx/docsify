@@ -23,7 +23,16 @@
         selector:'Muzi',
         template:`
         ...
-        
+        <button (click)='toggleSkills()'>
+            {{showSkills?"隐藏技能":"显示技能"}}
+         </button>
+         ...
         `
     })
+
+    export class UserComponent {
+        toggleSkills(){
+            this.showSkills = !this.showSkills'
+        }
+    }
 ```
