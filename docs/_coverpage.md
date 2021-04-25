@@ -5,5 +5,5 @@
 
 <!-- * 前端框架：Angular -->
 
-<!-- [GitHub](https://github.com/LazyManLikeGame/docsify.git) -->
+[GitHub](https://github.com/MuziSzx/docsify)
 <!-- [Get Started](#q) -->
