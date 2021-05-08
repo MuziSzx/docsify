@@ -7,6 +7,7 @@
   - [事件绑定](angular/bindEvent.md "事件绑定")
   - [表单模块简介](angular/formIntro.md "表单模块简介")
   - [Http模块简介](angular/httpIntro.md "Http模块简介")
-
+  - [注入服务](angular/injectService.md "注入服务")
+  - [路由模块简介](angular/route.md "路由模块简介")
 - CSS
   - [布局](layout.md "布局")
